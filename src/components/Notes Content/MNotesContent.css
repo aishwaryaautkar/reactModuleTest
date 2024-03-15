@@ -1,0 +1,38 @@
+.m_notes_content_body{
+    display: flex;
+    margin: 15px;
+  
+    min-height: 10vh;
+    height: auto;
+    width: 95vw;
+    background-color: white;
+    flex-direction: column;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.m_notes_content_date_time{
+    width: 60vw;
+    display: flex;
+    align-self: flex-end;
+    justify-content: right;
+    flex-direction: row;
+    margin-right: 10px;
+    background-color:white;
+}
+
+.m_notes_content_date,
+.m_notes_content_time {
+    font-size: 1.5vh;
+    font-weight: 600;
+    margin: 0; /* Reset margin */
+    margin-left: 2vh;
+}
+
+.m_notes_content_details{
+  
+    height: auto;
+    width: auto;
+    text-align: left;
+    margin: 1vh;
+   
+}

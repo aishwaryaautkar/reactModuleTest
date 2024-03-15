@@ -1,0 +1,46 @@
+.notes_content_note {
+    margin: 15px; /* Add margin bottom to create space between notes */
+    display: flex;
+  
+    flex-direction: column;
+    min-height: 15vh;
+    height: auto;
+    width: 73.5vw;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: white;
+    right: 20px;
+    
+}
+
+.notes_content_date_time_details{
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+    align-items: center;
+    
+    width: 20vw;
+    background-color: white;
+}
+
+
+
+.notes_content_date{
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 1vh;
+}
+
+.notes_content_time{
+    margin: 0 1vh 0 1vh;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.notes_content_details{
+    
+    height: auto;
+    width: auto;
+    text-align: left;
+    margin: 20px;
+    white-space: "pre-wrap";
+}
