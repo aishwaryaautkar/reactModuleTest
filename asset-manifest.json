@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactModuleTest/static/css/main.4b1ee2ba.css",
+    "main.js": "/reactModuleTest/static/js/main.1a547155.js",
+    "static/media/home.png": "/reactModuleTest/static/media/home.051c5dd6cf08bd17366f.png",
+    "index.html": "/reactModuleTest/index.html",
+    "main.4b1ee2ba.css.map": "/reactModuleTest/static/css/main.4b1ee2ba.css.map",
+    "main.1a547155.js.map": "/reactModuleTest/static/js/main.1a547155.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1ee2ba.css",
+    "static/js/main.1a547155.js"
+  ]
+}
